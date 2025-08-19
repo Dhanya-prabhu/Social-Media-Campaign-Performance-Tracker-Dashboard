@@ -122,8 +122,10 @@ A fully functional and visually engaging Power BI Dashboard tailored for marketi
 Huge thanks to Future Interns for the opportunity to work on this real-world analytics task. 
 
 ---
+## 🌐 Connect With Me
 
-📬 Contact
-
-For collaboration, feedback, or questions — feel free to reach out via:
-    LinkedIn:https://www.linkedin.com/in/dhanya-prabhu-315a2a339
+<p align="center">
+  <a href="https://github.com/Dhanya-prabhu"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/dhanya-prabhu-315a2a339"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="dhanyaprabhu23@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
